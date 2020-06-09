@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: faba963d53bf91c488d39db3a9dc9027
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aramenuobje: {fileID: 5701135652107881414, guid: 77d3965021e1ede4695a95cadeaa669f,
+      type: 3}
+  - ses2: {instanceID: 0}
+  - sarki: {fileID: 8300000, guid: 75a8e7429ffdadf44853c281c5bc8ce2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

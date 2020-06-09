@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sahneler/Anamenu.unity
+    guid: e12ba0837c38bc649b64aa23dd18d36f
+  - enabled: 1
+    path: Assets/Sahneler/Anamenu(oyunlar).unity
+    guid: ed30301bf6c88534790e97d21dcd4526
+  - enabled: 1
+    path: Assets/Sahneler/Sahne1(level1).unity
+    guid: aacec4c43622a1446affe563678afcca
+  - enabled: 1
+    path: Assets/Sahneler/Sahne1(level2).unity
+    guid: 0e1a9e40481948442a1a4e7f03b92b2a
+  - enabled: 1
+    path: Assets/Sahneler/Sahne2(level1).unity
+    guid: cba3f832f6559fb4e8d84cd8211209f3
+  - enabled: 1
+    path: Assets/Sahneler/Sahne2(level2).unity
+    guid: 0acac0d590c850f4e9c5a04658e25f79
+  - enabled: 1
+    path: Assets/Sahneler/Sahne2(level3).unity
+    guid: 2a2505cff466a2f478102694603d390a
+  - enabled: 1
+    path: Assets/Sahneler/Sahne3(level1).unity
+    guid: e0d2f8fa78939dd4ebfb71b414d4bd07
+  - enabled: 1
+    path: Assets/Sahneler/Sahne3(level2).unity
+    guid: f12399d0f23dc554f97a59e3f91f3bb8
+  - enabled: 1
+    path: Assets/Sahneler/Sahne3(level3).unity
+    guid: d4ea48d8d6abfcb458ddd82c5aa4b497
+  m_configObjects: {}
